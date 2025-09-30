@@ -1,6 +1,6 @@
 # CareConnect: The Caregiver Portal
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/sniro23/UKCAreHome_Cloudfare_Caregiverportal)
 
 CareConnect is a visually stunning, mobile-first web application designed as the dedicated portal for caregivers within the UK Care Home Management Solution. It empowers caregivers with a suite of intuitive tools to manage their professional lives efficiently. The application focuses on a minimalist, clean, and highly usable interface, ensuring that caregivers can access critical information and perform tasks quickly, even during busy shifts.
 
@@ -110,4 +110,4 @@ This application is designed for seamless deployment to the Cloudflare global ne
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/sniro23/UKCAreHome_Cloudfare_Caregiverportal)
